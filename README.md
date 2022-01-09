@@ -1,1 +1,1 @@
-# EC_GAN_Project
+# ECGAN_Project
