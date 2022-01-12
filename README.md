@@ -1,4 +1,6 @@
-# Emoji Creator Project With DCGAN, ECGAN
+# Emoji Creator Project With DCGAN, ECGAN :wave:
+
+My First GAN Project :musical_note:
 
 This is a project I started because I wanted to make a new emoji.
 
@@ -6,7 +8,7 @@ This is a project I started because I wanted to make a new emoji.
 
 ECGAN is a model created based on DCGAN. The model was trained Mac M1 Pro or Colab.
 
-# Resource adn Acknowledgements
+# Resource adn Acknowledgements :thumbsup:
 
 * Original paper on DCGAN by Radford and Metz https://arxiv.org/pdf/1511.06434.pdf
 * emojigan Github by tomhata https://github.com/tomhata/emojigan
