@@ -23,3 +23,7 @@ I hope I can continue to update in the future. :punch:
 * Optimizers = Adam, iterations = 10000
 
 ![dcgan (2)](https://user-images.githubusercontent.com/76984534/149050906-5e0b11e4-e4c7-4b21-94af-6bbe983810b1.gif)
+
+* Optimizers = RMSprop, iterations = 10000
+
+![dcgan (4)](https://user-images.githubusercontent.com/76984534/149079865-14a62b5a-070e-44be-9f9f-17e25763c9de.gif)
