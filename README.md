@@ -20,6 +20,6 @@ Because this model is a prototype model, it lacks a lot. :joy:
 
 I hope I can continue to update in the future. :punch:
 
-* iterations = 10000
+* Optimizers = Adam, iterations = 10000
 
 ![dcgan (2)](https://user-images.githubusercontent.com/76984534/149050906-5e0b11e4-e4c7-4b21-94af-6bbe983810b1.gif)
