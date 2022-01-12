@@ -25,5 +25,5 @@ I hope I can continue to update in the future. :punch:
 ![dcgan (2)](https://user-images.githubusercontent.com/76984534/149050906-5e0b11e4-e4c7-4b21-94af-6bbe983810b1.gif)
 
 * Optimizers = RMSprop, iterations = 10000
-
-![dcgan (4)](https://user-images.githubusercontent.com/76984534/149079865-14a62b5a-070e-44be-9f9f-17e25763c9de.gif)
+* 
+![dcgan (5)](https://user-images.githubusercontent.com/76984534/149086598-01d49fd9-1d94-4001-b81b-875e3ba420fe.gif)
