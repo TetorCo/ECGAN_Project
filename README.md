@@ -17,7 +17,7 @@ GAN 모델 중에서 가장 기본 모델은 DCGAN을 사용해서 웹 사이트
 ![gan1](https://user-images.githubusercontent.com/76984534/160864359-7eb78b3d-085e-477d-b8bc-bae79f57e810.gif)
 ![gan2](https://user-images.githubusercontent.com/76984534/160864370-b675998f-5ed0-47ff-bb53-76bc408946bf.gif)
 
-2차 때는 이미지도 어느 정도 형태를 갖춘 이미지가 생성되었지만 Generator에 Random Noise를 넣어주어도 마지막에 생성한 이미지들 중에서만 반복해서 생성하는 것을 발견했습니다.
+2차 때는 이미지도 어느 정도 형태를 갖춘 이미지가 생성되었지만 Generator에 Random Noise를 넣어주어도 마지막에 생성한 이미지들 중에서만 반복해서 생성하는 것을 발견했습니다. -> 해결에는 실패했습니다...
 
 ## 프로젝트 결과
 
